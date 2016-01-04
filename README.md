@@ -1,2 +1,2 @@
-# casperelle
-Matlab/Simulink library extensions developed on the CASPER toolset
+# acasperelle
+A Matlab/Simulink library of extensions developed on the CASPER toolset

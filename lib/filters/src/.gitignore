@@ -1,0 +1,3 @@
+# MATLAB/Simulink autosaves
+*.autosave
+*.m~
